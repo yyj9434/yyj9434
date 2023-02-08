@@ -1,6 +1,6 @@
 ### 👩🏻‍💻 Ryu Yoo Jin
-### 🖥️ Back-end Developer
-### 🖥️ Java | Spring Framework | JavaScript | Node.js
+##### 🖥️ Back-end Developer
+##### 🖥️ Java | Spring Framework | JavaScript | Node.js
 
 <!--
 **yyj9434/yyj9434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
