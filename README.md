@@ -1,4 +1,4 @@
-### 👩🏻‍💻 Ryu Yoo Jin
+### 👩🏻‍💻 RYU YOO JIN
 ##### 🖥️ Back-end Developer
 ##### 🖥️ Java | Spring Framework | JavaScript | Node.js
 
